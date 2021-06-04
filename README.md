@@ -13,4 +13,4 @@ The complete details of the project including list of assumptions and working me
 <br>
 <br>
 
-_The project is completed and submitted as course project for the course Digital Design in BITS Pilani KK Birla Goa campus._
+_The project is completed and submitted as semester project for the course Digital Design in AY 2020-21 -- BITS Pilani KK Birla Goa campus._
