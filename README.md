@@ -2,7 +2,7 @@
 
 The problem statement for this project is
 
-<span style="color:cyan">_Design an automated chessboard where the user selects the chess piece and inputs the final position. Based on user input design a system that moves the chess pieces. Assume that your chess board is only automated for the bishop and the knight pieces only. Assume that these pieces are automated by servo motors that move one box at a time in any direction._</span>
+<span style="color:grey">_Design an automated chessboard where the user selects the chess piece and inputs the final position. Based on user input design a system that moves the chess pieces. Assume that your chess board is only automated for the bishop and the knight pieces only. Assume that these pieces are automated by servo motors that move one box at a time in any direction._</span>
 
 We designed a Digital Logic circuit for an Automaed Chess board, the logic circuit file is attached as [Automated_Chess.circ](Automated_Chess.circ).
 
