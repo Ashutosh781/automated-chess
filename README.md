@@ -10,7 +10,13 @@ The initial problem statement demanded simulation of only Bishop and Knight piec
 
 The complete details of the project including list of assumptions and working methodology is explained in the [Report](Project_Report.pdf).
 
-<br>
-<br>
+Project Contributors:
+
+- Aarabdh Tiwari
+- Aayush Kabra
+- Aditya Agarwal
+- Ashutosh Gupta
+- Sarvesh Garge
+- Siddhant Sharma
 
 _The project is completed and submitted as semester project for the course Digital Design in AY 2020-21 -- BITS Pilani KK Birla Goa campus._
